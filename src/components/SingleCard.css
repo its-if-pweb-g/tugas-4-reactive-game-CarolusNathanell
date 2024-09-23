@@ -1,0 +1,11 @@
+.card{
+    position: relative;
+    height: max-content;
+}
+
+.card img{
+    width: 100%;
+    display: inline;
+    border: 2px solid white;
+    border-radius: 6px;
+}
